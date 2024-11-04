@@ -1,0 +1,7 @@
+## BDA 과제 업로드 양식 ##
+
+파일명: 복습/필수_OOO번호_날짜.ipynb
+
+git add .
+git commit -m "O주차 복습/필수과제"
+git push -u origin BDA_Data
